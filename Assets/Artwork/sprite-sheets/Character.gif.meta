@@ -1,0 +1,434 @@
+fileFormatVersion: 2
+guid: 83a20f5da8ff0b247a41cbf6553083fc
+timeCreated: 1460753447
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: imageedit_1_5580222096_0
+    21300002: imageedit_1_5580222096_1
+    21300004: imageedit_1_5580222096_2
+    21300006: imageedit_1_5580222096_3
+    21300008: imageedit_1_5580222096_4
+    21300010: imageedit_1_5580222096_5
+    21300012: imageedit_1_5580222096_6
+    21300014: imageedit_1_5580222096_7
+    21300016: imageedit_1_5580222096_8
+    21300018: imageedit_1_5580222096_9
+    21300020: imageedit_1_5580222096_10
+    21300022: imageedit_1_5580222096_11
+    21300024: imageedit_1_5580222096_12
+    21300026: imageedit_1_5580222096_13
+    21300028: imageedit_1_5580222096_14
+    21300030: imageedit_1_5580222096_15
+    21300032: imageedit_1_5580222096_16
+    21300034: imageedit_1_5580222096_17
+    21300036: imageedit_1_5580222096_18
+    21300038: imageedit_1_5580222096_19
+    21300040: imageedit_1_5580222096_20
+    21300042: imageedit_1_5580222096_21
+    21300044: imageedit_1_5580222096_22
+    21300046: imageedit_1_5580222096_23
+    21300048: imageedit_1_5580222096_24
+    21300050: imageedit_1_5580222096_25
+    21300052: imageedit_1_5580222096_26
+    21300054: imageedit_1_5580222096_27
+    21300056: imageedit_1_5580222096_28
+    21300058: Character_Idle_1
+    21300060: Character_Idle_2
+    21300062: Character_Idle_3
+    21300064: Character_Idle_4
+    21300066: Character_Death
+    21300068: Z_Not_Used
+    21300070: Character_Running_1
+    21300072: Character_Running_2
+    21300074: Character_Running_3
+    21300076: Character_Running_4
+    21300078: Character_Running_5
+    21300080: Character_Running_6
+    21300082: Character_Running_7
+    21300084: Character_Running_8
+    21300086: Character_Running_9
+    21300088: Character_Kick_1
+    21300090: Character_Kick_2
+    21300092: Z_Not_Used_2
+    21300094: Z_Not_Used_3
+    21300096: Z_Not_Used_8
+    21300098: Z_Not_Used_4
+    21300100: Z_Not_Used_5
+    21300102: Z_Not_Used_6
+    21300104: Z_Not_Used_7
+    21300106: Character_Attack_1
+    21300108: Character_Attack_2
+    21300110: Character_Attack_3
+    21300112: Character_Attack_4
+    21300114: Character_Attack_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Character_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 98
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Character_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 98
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Character_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 98
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Character_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 98
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Character_Death
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 100
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Z_Not_Used
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Character_Running_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 79
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Character_Running_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 80
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Character_Running_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 79
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Character_Running_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 79
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Character_Running_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 80
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Character_Running_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 79
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Character_Running_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 61
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Character_Running_8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 61
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Character_Running_9
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 60
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Character_Kick_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 61
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Character_Kick_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 61
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Z_Not_Used_2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 60
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Z_Not_Used_3
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 41
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Z_Not_Used_8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 43
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Z_Not_Used_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 45
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Z_Not_Used_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 42
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Z_Not_Used_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 43
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Z_Not_Used_7
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 45
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Character_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 22
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Character_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 22
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Character_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 22
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Character_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 31
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Character_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 22
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
